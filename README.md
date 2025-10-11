@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Hero Header -->
-<img src="https://avatars.githubusercontent.com/u/51031258?v=4" width="120" style="border-radius:50%" alt="Profile Avatar" />
+![AI and Human Collaboration](https://github.com/user-attachments/assets/a0c7abce-71f0-46af-985e-d18314d7fbb2)
 
 # Hi, I'm a Developer 👋
 
@@ -35,7 +34,3 @@ I'm an Enterprise AI & DevOps Architect focused on building intelligent automati
 - 🧭 Founder & CEO, **Next Gen Ops Pvt Ltd** — Bangalore, India
 - 🧠 Areas: AI for DevOps, Cloud-Native, Platform Engineering, GitOps, Observability, Security
 - 🏆 Passion: Turning complex business workflows into robust, automated pipelines that deliver value fast
-
----
-
-## 💼 Business
