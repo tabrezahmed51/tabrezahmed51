@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=800&color=31F1EF&width=700&lines=Welcome+to+the+Ops+Universe;Enterprise+AI+DevOps+Architect;Elite+Cloud+%7C+Automation+%7C+Security+%7C+APIs;Building+the+Future+of+Digital+Innovation" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=800&color=31F1EF&width=900&lines=Welcome+to+the+Ops+Universe;Enterprise+AI+DevOps+Architect;Elite+Cloud+%7C+Automation+%7C+Security+%7C+APIs;Building+the+Future+of+Digital+Innovation" alt="Typing SVG">
 </p>
 
 ---
